@@ -14,3 +14,4 @@
 | Day 04 | CSS 박스 모델, 구조/상태/문자 선택자 심화 | [📄 보기](./day_04.md) |
 | Day 05 | CSS 속성 심화 (display, background, table 스타일, 텍스트/위치/레이아웃 개요) | [📄 보기](./day_05.md) |
 | Day 06 | CSS position, 가시 속성 심화 (display/visibility/opacity/overflow/z-index), jQuery Ajax | [📄 보기](./day_06.md) |
+| Day 07 | JSP 기초 (스크립트릿/표현식/선언문), JSTL, CSS 텍스트 속성, Servlet 입문 | [📄 보기](./day_07.md) |
