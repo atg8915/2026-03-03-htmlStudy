@@ -18,3 +18,4 @@
 | Day 08 | JSP 내장 객체 (request/response/session), 파라미터 전달, float 레이아웃, 페이징 | [📄 보기](./day_08.md) |
 | Day 09 | JSP 내장 객체 심화 (response/session/application/out/pageContext), Cookie, 파일 다운로드, Vue+Axios | [📄 보기](./day_09.md) |
 | Day 10 | DBCP, JavaBean/DTO/VO, JSP 액션 태그 (useBean/include), Session 로그인, 웹 기술 전체 흐름 | [📄 보기](./day_10.md) |
+| Day 11 | EL / JSTL 전체, MV구조 게시판 (BoardDAO/BoardModel), 파일 업로드 | [📄 보기](./day_11.md) |
