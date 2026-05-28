@@ -20,3 +20,4 @@
 | Day 10 | DBCP, JavaBean/DTO/VO, JSP 액션 태그 (useBean/include), Session 로그인, 웹 기술 전체 흐름 | [📄 보기](./day_10.md) |
 | Day 11 | EL / JSTL 전체, MV구조 게시판 (BoardDAO/BoardModel), 파일 업로드 | [📄 보기](./day_11.md) |
 | Day 12 | MV구조 전환 실습 (일반JSP → MV), 페이징 블록, Lombok, JDBC vs DBCP 비교 | [📄 보기](./day_12.md) |
+| Day 13 | 답글형 게시판 CRUD, GET/POST 차이, jQuery Ajax 수정, JSP 총정리, XSS 보안 | [📄 보기](./day_13.md) |
