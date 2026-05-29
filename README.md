@@ -21,3 +21,4 @@
 | Day 11 | EL / JSTL 전체, MV구조 게시판 (BoardDAO/BoardModel), 파일 업로드 | [📄 보기](./day_11.md) |
 | Day 12 | MV구조 전환 실습 (일반JSP → MV), 페이징 블록, Lombok, JDBC vs DBCP 비교 | [📄 보기](./day_12.md) |
 | Day 13 | 답글형 게시판 CRUD, GET/POST 차이, jQuery Ajax 수정, JSP 총정리, XSS 보안 | [📄 보기](./day_13.md) |
+| Day 14 | MVC 구조 (Controller Servlet + Model Interface + XML 매핑), DBCPUtil 분리, Spring 구조 이해 | [📄 보기](./day_14.md) |
