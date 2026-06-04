@@ -23,3 +23,4 @@
 | Day 13 | 답글형 게시판 CRUD, GET/POST 차이, jQuery Ajax 수정, JSP 총정리, XSS 보안 | [📄 보기](./day_13.md) |
 | Day 14 | MVC 구조 (Controller Servlet + Model Interface + XML 매핑), DBCPUtil 분리, Spring 구조 이해 | [📄 보기](./day_14.md) |
 | Day 15 | JSP MVC 총정리, EL/JSTL 심화, XML 파싱(DOM/SAX), MyBatis 입문, 파일 업로드 심화 | [📄 보기](./day_15.md) |
+| Day 16 | Java 어노테이션, XML 파싱(DOM/SAX), MyBatis 심화(동적SQL/config/mapper), JSP MVC 총정리 | [📄 보기](./day_16.md) |
