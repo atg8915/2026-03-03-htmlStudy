@@ -25,3 +25,4 @@
 | Day 15 | JSP MVC 총정리, EL/JSTL 심화, XML 파싱(DOM/SAX), MyBatis 입문, 파일 업로드 심화 | [📄 보기](./day_15.md) |
 | Day 16 | Java 어노테이션, XML 파싱(DOM/SAX), MyBatis 심화(동적SQL/config/mapper), JSP MVC 총정리 | [📄 보기](./day_16.md) |
 | Day 17 | Spring 구조 직접 구현 (커스텀 DispatcherServlet, @Controller, @RequestMapping, ComponentScan, MyBatis SqlSession) | [📄 보기](./day_17.md) |
+| Day 18 | JavaScript 기초 (변수/자료형/연산자/제어문/반복문/배열) | [📄 보기](./day_18.md) |
