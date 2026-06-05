@@ -24,3 +24,4 @@
 | Day 14 | MVC 구조 (Controller Servlet + Model Interface + XML 매핑), DBCPUtil 분리, Spring 구조 이해 | [📄 보기](./day_14.md) |
 | Day 15 | JSP MVC 총정리, EL/JSTL 심화, XML 파싱(DOM/SAX), MyBatis 입문, 파일 업로드 심화 | [📄 보기](./day_15.md) |
 | Day 16 | Java 어노테이션, XML 파싱(DOM/SAX), MyBatis 심화(동적SQL/config/mapper), JSP MVC 총정리 | [📄 보기](./day_16.md) |
+| Day 17 | Spring 구조 직접 구현 (커스텀 DispatcherServlet, @Controller, @RequestMapping, ComponentScan, MyBatis SqlSession) | [📄 보기](./day_17.md) |
