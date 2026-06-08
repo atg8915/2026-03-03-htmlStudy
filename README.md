@@ -26,3 +26,4 @@
 | Day 16 | Java 어노테이션, XML 파싱(DOM/SAX), MyBatis 심화(동적SQL/config/mapper), JSP MVC 총정리 | [📄 보기](./day_16.md) |
 | Day 17 | Spring 구조 직접 구현 (커스텀 DispatcherServlet, @Controller, @RequestMapping, ComponentScan, MyBatis SqlSession) | [📄 보기](./day_17.md) |
 | Day 18 | JavaScript 기초 (변수/자료형/연산자/제어문/반복문/배열) | [📄 보기](./day_18.md) |
+| Day 19 | JavaScript 기초(배열/JSON/함수/콜백), Axios 서버 연동, HttpURLConnection | [📄 보기](./day_19.md) |
