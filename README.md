@@ -29,3 +29,4 @@
 | Day 19 | JavaScript 기초(배열/JSON/함수/콜백), Axios 서버 연동, HttpURLConnection | [📄 보기](./day_19.md) |
 | Day 20 | DOM 객체 모델, 이벤트 처리 3가지(인라인/고전/리스너), 동적 태그 생성/삭제, Axios 실시간 검색 필터 | [📄 보기](./day_20.md) |
 | Day 21 | jQuery 기초(선택자/css/text/html/val/attr/append), JS 내장 객체(String/Date/BOM), 우편번호 팝업 연동 | [📄 보기](./day_21.md) |
+| Day 22 | Ajax 원리(XMLHttpRequest), jQuery $.ajax + 페이징, Vue.js 기초(v-for/mounted/data), 카카오맵 API, MyBatis 동적SQL | [📄 보기](./day_22.md) |
