@@ -31,3 +31,4 @@
 | Day 21 | jQuery 기초(선택자/css/text/html/val/attr/append), JS 내장 객체(String/Date/BOM), 우편번호 팝업 연동 | [📄 보기](./day_21.md) |
 | Day 22 | Ajax 원리(XMLHttpRequest), jQuery $.ajax + 페이징, Vue.js 기초(v-for/mounted/data), 카카오맵 API, MyBatis 동적SQL | [📄 보기](./day_22.md) |
 | Day 23 | Ubuntu 서버 환경 구축(Java21/Tomcat11), nano 편집기, GitHub clone + 배포, Git Bash push 명령어 | [📄 보기](./day_23.md) |
+| Day 24 | MVC 총정리(Cookie 최근방문/Session 로그인/댓글등록), MyBatis selectKey, forward vs redirect, jQuery 효과(fade/slide/animate/탭/라이트박스) | [📄 보기](./day_24.md) |
