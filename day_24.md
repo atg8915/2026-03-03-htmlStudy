@@ -29,11 +29,11 @@
 ## 1. 전체 프로젝트 구조
 
 ```text
-JSPMVCTotalProject
-├── com.sist.controller
-│     └── DispatcherServlet.java   모든 .do 요청 진입점
-│         Controller.java          커스텀 어노테이션
-│         RequestMapping.java      커스텀 어노테이션
+JSPFrontProject_7
+├── com.sist.mapper
+│     └── food-mapper.xml
+│         member-mapper.xml
+│         reply-mapper.xml
 │
 ├── com.sist.commons
 │     └── CreateSqlSessionFactory.java   MyBatis 싱글턴 팩토리
@@ -52,11 +52,8 @@ JSPMVCTotalProject
 │     ├── FoodVO.java
 │     ├── MemberVO.java     (msg 필드 포함 : OK/NOID/NOPWD)
 │     └── ReplyVO.java
-│
-└── mapper
-      ├── food-mapper.xml
-      ├── member-mapper.xml
-      └── reply-mapper.xml
+|
+├── Config.xml
 ```
 
 ---
