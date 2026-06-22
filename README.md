@@ -32,3 +32,4 @@
 | Day 22 | Ajax 원리(XMLHttpRequest), jQuery $.ajax + 페이징, Vue.js 기초(v-for/mounted/data), 카카오맵 API, MyBatis 동적SQL | [📄 보기](./day_22.md) |
 | Day 23 | Ubuntu 서버 환경 구축(Java21/Tomcat11), nano 편집기, GitHub clone + 배포, Git Bash push 명령어 | [📄 보기](./day_23.md) |
 | Day 24 | MVC 총정리(Cookie 최근방문/Session 로그인/댓글등록), MyBatis selectKey, forward vs redirect, jQuery 효과(fade/slide/animate/탭/라이트박스) | [📄 보기](./day_24.md) |
+| Day 25 | MVC 프로젝트 구축 순서, Config.xml+db.properties 분리, 게시판 CRUD+파일업로드/다운로드(UploadServlet/@MultipartConfig), 근처맛집 LIKE+rownum | [📄 보기](./day_25.md) |
