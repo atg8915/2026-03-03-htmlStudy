@@ -33,3 +33,4 @@
 | Day 23 | Ubuntu 서버 환경 구축(Java21/Tomcat11), nano 편집기, GitHub clone + 배포, Git Bash push 명령어 | [📄 보기](./day_23.md) |
 | Day 24 | MVC 총정리(Cookie 최근방문/Session 로그인/댓글등록), MyBatis selectKey, forward vs redirect, jQuery 효과(fade/slide/animate/탭/라이트박스) | [📄 보기](./day_24.md) |
 | Day 25 | MVC 프로젝트 구축 순서, Config.xml+db.properties 분리, 게시판 CRUD+파일업로드/다운로드(UploadServlet/@MultipartConfig), 근처맛집 LIKE+rownum | [📄 보기](./day_25.md) |
+| Day 26 | Ajax 단계별 화면 조립(예약시스템), jsp:include 동적 include, Calendar 달력 로직, JSTL c:choose/forTokens, data-* 속성, 마이페이지/관리자 레이아웃 분리 | [📄 보기](./day_26.md) |
