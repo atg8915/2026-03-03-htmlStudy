@@ -61,7 +61,7 @@
 ### db.properties
 ```properties
 driver=oracle.jdbc.driver.OracleDriver
-url=jdbc:oracle:thin:@192.168.0.33:1521:XE
+url=jdbc:oracle:thin:@localhost:1521:XE
 username=hr
 password=happy
 maxActive=20
