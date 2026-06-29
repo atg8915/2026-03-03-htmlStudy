@@ -35,3 +35,4 @@
 | Day 25 | MVC 프로젝트 구축 순서, Config.xml+db.properties 분리, 게시판 CRUD+파일업로드/다운로드(UploadServlet/@MultipartConfig), 근처맛집 LIKE+rownum | [📄 보기](./day_25.md) |
 | Day 26 | Ajax 단계별 화면 조립(예약시스템), jsp:include 동적 include, Calendar 달력 로직, JSTL c:choose/forTokens, data-* 속성, 마이페이지/관리자 레이아웃 분리 | [📄 보기](./day_26.md) |
 | Day 27 | Vue.js 심화(생명주기/디렉티브/컴포넌트/props/$parent), v-model 양방향, axios GET/POST, ref DOM접근, 카카오맵 Geocoder 주소→좌표, function vs 화살표함수 this | [📄 보기](./day_27.md) |
+| Day 28 | Vue.js 게시판 CRUD(목록/상세/등록/수정/삭제), ES Module import, async/await, v-model+ref 유효성검사, 토글 패턴(isOn/bShow), axios POST({},{params}) | [📄 보기](./day_28.md) |
