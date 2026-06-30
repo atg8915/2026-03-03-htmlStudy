@@ -36,3 +36,4 @@
 | Day 26 | Ajax 단계별 화면 조립(예약시스템), jsp:include 동적 include, Calendar 달력 로직, JSTL c:choose/forTokens, data-* 속성, 마이페이지/관리자 레이아웃 분리 | [📄 보기](./day_26.md) |
 | Day 27 | Vue.js 심화(생명주기/디렉티브/컴포넌트/props/$parent), v-model 양방향, axios GET/POST, ref DOM접근, 카카오맵 Geocoder 주소→좌표, function vs 화살표함수 this | [📄 보기](./day_27.md) |
 | Day 28 | Vue.js 게시판 CRUD(목록/상세/등록/수정/삭제), ES Module import, async/await, v-model+ref 유효성검사, 토글 패턴(isOn/bShow), axios POST({},{params}) | [📄 보기](./day_28.md) |
+| Day 29 | Vue 컴포넌트 emit 패턴(props+emits+$emit), 페이징 컴포넌트 재사용, 아임포트 결제(IMP.request_pay), EL+Vue 초기값 주입(${param.no}), 공통 레이아웃 include | [📄 보기](./day_29.md) |
